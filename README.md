@@ -4,7 +4,7 @@ at **IBCS-Primax Software Bangladesh Ltd.**
 ---
 
 ## 📂 Deliverables
--Test-Cases  
+- Test-Cases  
 - Bug Reports 
 - Final Presentation
 ---
